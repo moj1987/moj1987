@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mojtaba Abbasszadeh and you can call me Moj
+- 👋 Hi, I’m Moj
 - 👀 I’m interested in Android development as well as any type of strongly typed languages.
 - 🌱 I’m currently working on Kotlin projects and all about Android.
 - 💞️ I’m looking to collaborate on projects involving Kotlin, Java, or C#. 
