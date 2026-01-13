@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Moj
+👋 Hi, I'm Moj
+
 **Design, Automate, Collaborate | Software Engineer**
 Specializing in high-performance **Mobile SDKs** and **AI Infrastructure**.
 ---
